@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
+        id        = "com.metachord.dart-start"
         version   = "2.0.0">
-    <name>Hello World</name>
+    <name>Dart start</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Experiments with Dart
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://metachord.com" email="mtreskin@metachord.com">
+        Max Treskin
     </author>
 
     <feature name="http://api.phonegap.com/1.0/device" />

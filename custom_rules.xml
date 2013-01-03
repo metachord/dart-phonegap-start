@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="darter" default="help">
+
+  <target name="-pre-build">
+    <exec executable="dart2js"
+          dir="assets/www/"
+          newenvironment="false"
+          failonerror="true">
+      <arg value="-oDarter.dart.js" />
+      <arg value="Darter.dart" />
+    </exec>
+  </target>
+
+
+</project>

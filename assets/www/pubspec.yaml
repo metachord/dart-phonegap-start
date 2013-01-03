@@ -1,0 +1,5 @@
+name: dart_helloworld
+dependencies:
+  rikulo_gap:
+    git: https://github.com/rikulo/gap.git
+
